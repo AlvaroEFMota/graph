@@ -1,1 +1,1 @@
-/mnt/c/Users/alvar/graph/target/debug/graph: /mnt/c/Users/alvar/graph/src/main.rs
+C:\Users\alvar\graph\target\debug\graph.exe: C:\Users\alvar\graph\src\main.rs
